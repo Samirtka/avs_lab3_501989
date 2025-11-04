@@ -1,0 +1,23 @@
+*   33007db Merge branch 'hf_tests' into release
+|\  
+| * c310fb7 сохранили diff последних 2-ух коммитов
+| * d2127f3 решил конфликт cursor.txt 3
+| * 945dd15 решил конфликт cursor.txt 2
+| * a4d1f5e add cursor.txt 3
+* |   9d6634a Merge branch 'feature2'
+|\ \  
+| * | 3ce4f96 feature2 change
+* | |   73e00ed Merge branch 'feature1'
+|\ \ \  
+| |_|/  
+|/| |   
+| * | 0e32c6e feature1 change
+| |/  
+| * 6af42a7 add cursor.txt 5
+| * 0f99c5b add cursor.txt 4
+| * 2a1cc10 add cursor.txt 3
+* | 6cd4fb9 добавил 'экзамен' после ресета к третьему коммиту
+|/  
+* 7be42a0 add cursor.txt 2
+* 60fd202 add cursor.txt 1
+* 9f13c48 init
