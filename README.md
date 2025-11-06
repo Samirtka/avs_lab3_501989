@@ -1,4 +1,5 @@
 История
+```
     1  git
     2  curl -s https://raw.githubusercontent.com/itregernium/avs_lab3/refs/heads/main/lab3gen.sh | sh -s --501989
     3  sudo apt install git
@@ -94,3 +95,7 @@
    93  git commit -m "сохранение истории"
    94  git history
    95  history
+```
+
+
+
